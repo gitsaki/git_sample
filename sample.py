@@ -1,7 +1,8 @@
 def main():
-    a = 5
-    b = 3
-    print(a+b)
+    a = 100
+    b = 200
+    result = a + b
+    print(result)
 
 if __name__ == '__main__':
     main()
